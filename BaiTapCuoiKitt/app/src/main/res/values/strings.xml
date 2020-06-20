@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiTapCuoiKitt</string>
+    <string-array name="quocgia">
+        <item>USA</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
